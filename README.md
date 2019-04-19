@@ -5,10 +5,10 @@
 本项目时通过springbooot来实现的小程序后台
 
 # 接口配置说明  
-数据库配置文件：src\main\resources\application.properties
-小程序账号配置文件：src\main\java\com\zslin\web\GetLogin
-讯飞账号配置文件：src\main\java\com\zslin\web\WebIAT
-图灵账号配置文件：src\main\java\com\zslin\web\util\HttpUtil
+数据库配置文件：src\main\resources\application.properties  
+小程序账号配置文件：src\main\java\com\zslin\web\GetLogin  
+讯飞账号配置文件：src\main\java\com\zslin\web\WebIAT  
+图灵账号配置文件：src\main\java\com\zslin\web\util\HttpUtil    
 
 代码结构比较乱，大家将就下，有任何建议想法，可以邮件与我联系zgliuwen@163.com  
 
